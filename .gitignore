@@ -1,0 +1,56 @@
+# Byte-compiled / оптимизированные / DLL файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Директории для сборки и установки
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Файлы, генерируемые PyInstaller
+*.manifest
+*.spec
+
+# Логи установщика
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Отчёты для unit-тестирования / покрытия кода
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Конфигурационные файлы редакторов
+.idea/
+.vscode/
+
+# Файлы кэша Windows
+Thumbs.db
+ehthumbs.db
+
+# Системные файлы macOS
+.DS_Store
